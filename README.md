@@ -1,4 +1,4 @@
-# To be defined.
+# To be written.
 
 - 👋 Hi, I’m @lokdao
 - 👀 I’m interested in ...
